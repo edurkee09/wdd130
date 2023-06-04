@@ -13,7 +13,6 @@ header {
 .home-grid {
    display: grid;
    grid-template-columns: repeat(10, 1fr);
-   grid-template-rows: repeat(9, 1fr);
 }
 .rivers-card {
    grid-column: 2/4;
